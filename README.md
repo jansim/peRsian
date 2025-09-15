@@ -68,6 +68,6 @@ as.palette(
 
 ## Acknowledgements
 
-This package is inspired by the wonderful
+This package is inspired by and heavily builds upon the wonderful
 [{wesanderson}](https://github.com/karthik/wesanderson/) and
 [{MetBrewer}](https://github.com/BlakeRMills/MetBrewer/) packages.
