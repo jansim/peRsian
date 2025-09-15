@@ -24,7 +24,7 @@ pak::pak("jansim/persian")
 library(persian)
 
 names(persian_palettes)
-#> [1] "vase"
+#> [1] "vase"   "floral"
 
 persian_palette(names(persian_palettes)[1])
 ```
@@ -55,16 +55,25 @@ persian_palette("vase")
 
 <https://www.metmuseum.org/art/collection/search/452187>
 
-### WIP Palette
+### Floral
+
+<img align="left" alt="Image of a Floral Carpet" src="man/figures/floral.jpg" height="300">
+
+This fragment of a carpet bears a variety of flowers on winding stems
+over a blue ground. Its structure, which is composed of two planes of
+warp threads, indicates that it was probably produced in the city of
+Kirman in southeastern Iran. Carpets from this city display a wide range
+of patterns but are alike in construction. Exported to India during the
+reign of Emperor Akbar (r. 1556-1605), Kirman carpets were known to be
+among the finest produced in Iran during this period.
 
 ``` r
-as.palette(
-  c("#610115", "#a17660", "#061721", "#4b433a", "#e8e4e5"),
-  name = "vase"
-)
+persian_palette("floral")
 ```
 
 <img src="man/figures/README/fig-unnamed-chunk-3-1.png" width="100%" />
+
+<https://www.metmuseum.org/art/collection/search/452190>
 
 ## Acknowledgements
 
