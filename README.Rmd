@@ -40,7 +40,7 @@ names(persian_palettes)
 persian_palette(names(persian_palettes)[1])
 ```
 
-## Palettes
+## ~Palettes~ Carpets
 
 ### Pattern
 
