@@ -44,7 +44,7 @@ persian_palette(names(persian_palettes)[1])
 
 ### Pattern
 
-<img align="left" alt="Image of a Floral Carpet" src="man/figures/pattern.jpg" height="300">
+<img align="left" alt="Image of a Carpet with a central Pattern" src="man/figures/pattern.jpg" height="300">
 
 A small quadratic carpet with a rich, traditional design. The piece features a striking color palette dominated by deep navy blue, warm golden yellow, and burgundy red, with accents of white and teal.
 The central motif is a large, symmetrical medallion in navy blue that resembles a stylized star or cross pattern. This central design is outlined in white and burgundy and contains smaller geometric elements within it. The medallion sits on a golden yellow background field.
@@ -52,6 +52,17 @@ Surrounding the central design is an ornate border system with multiple bands. T
 
 ```{r}
 persian_palette("pattern")
+```
+
+### Roses
+
+<img align="left" alt="Image of a Carpet feauturing vases filled with roses" src="man/figures/roses.jpg" height="300">
+
+...
+
+
+```{r}
+persian_palette("roses")
 ```
 
 ### Vase

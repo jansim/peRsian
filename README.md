@@ -24,7 +24,7 @@ pak::pak("jansim/peRsian")
 library(peRsian)
 
 names(persian_palettes)
-#> [1] "pattern" "vase"    "floral"
+#> [1] "pattern" "roses"   "vase"    "floral"
 
 persian_palette(names(persian_palettes)[1])
 ```
@@ -35,7 +35,7 @@ persian_palette(names(persian_palettes)[1])
 
 ### Pattern
 
-<img align="left" alt="Image of a Floral Carpet" src="man/figures/pattern.jpg" height="300">
+<img align="left" alt="Image of a Carpet with a central Pattern" src="man/figures/pattern.jpg" height="300">
 
 A small quadratic carpet with a rich, traditional design. The piece
 features a striking color palette dominated by deep navy blue, warm
@@ -56,6 +56,18 @@ persian_palette("pattern")
 
 <img src="man/figures/README/fig-unnamed-chunk-2-1.png" width="100%" />
 
+### Roses
+
+<img align="left" alt="Image of a Carpet feauturing vases filled with roses" src="man/figures/roses.jpg" height="300">
+
+…
+
+``` r
+persian_palette("roses")
+```
+
+<img src="man/figures/README/fig-unnamed-chunk-3-1.png" width="100%" />
+
 ### Vase
 
 <img align="left" alt="Image of a Vase Carpet" src="man/figures/vase.jpg" height="300">
@@ -74,7 +86,7 @@ commercial workshops that created high-quality carpets like this one.
 persian_palette("vase")
 ```
 
-<img src="man/figures/README/fig-unnamed-chunk-3-1.png" width="100%" />
+<img src="man/figures/README/fig-unnamed-chunk-4-1.png" width="100%" />
 
 <https://www.metmuseum.org/art/collection/search/452187>
 
@@ -94,7 +106,7 @@ among the finest produced in Iran during this period.
 persian_palette("floral")
 ```
 
-<img src="man/figures/README/fig-unnamed-chunk-4-1.png" width="100%" />
+<img src="man/figures/README/fig-unnamed-chunk-5-1.png" width="100%" />
 
 <https://www.metmuseum.org/art/collection/search/452190>
 
