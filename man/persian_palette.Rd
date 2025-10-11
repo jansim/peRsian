@@ -4,7 +4,12 @@
 \alias{persian_palette}
 \title{A Palette Generator Based on Persian Art}
 \usage{
-persian_palette(name, n, type = c("discrete", "continuous"))
+persian_palette(
+  name,
+  n,
+  type = c("discrete", "continuous"),
+  direction = c(1, -1)
+)
 }
 \arguments{
 \item{name}{Name of desired palette.}

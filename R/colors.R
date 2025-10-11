@@ -18,7 +18,7 @@ persian_palettes <- list(
 #'   to automatically interpolate between colours
 #' @return A vector of colours.
 #' @export
-persian_palette <- function(name, n, type = c("discrete", "continuous")) {
+persian_palette <- function(name, n, type = c("discrete", "continuous"), direction = c(1, -1)) {
   type <- match.arg(type)
 
   pal <- persian_palettes[[name]]
@@ -31,6 +31,14 @@ persian_palette <- function(name, n, type = c("discrete", "continuous")) {
 
   if (type == "discrete" && n > length(pal)) {
     stop("Number of requested colors greater than what palette can offer")
+  }
+
+  if (missing(direction)) {
+    direction <- 1
+  }
+  stopifnot(direction %in% c(1, -1))
+  if (direction == -1) {
+    pal <- rev(pal)
   }
 
   out <- switch(type,
