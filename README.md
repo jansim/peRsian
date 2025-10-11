@@ -4,6 +4,7 @@
 # peRsian <img src="man/figures/logo.png" width="120" align="right" />
 
 <!-- badges: start -->
+
 <!-- badges: end -->
 
 A collection of color palettes inspired by persian carpets.
@@ -31,7 +32,7 @@ persian_palette(names(persian_palettes)[1])
 
 <img src="man/figures/README/fig-example-1.png" width="100%" />
 
-## <sub>Palettes</sub> Carpets
+## ~~Palettes~~ Carpets
 
 ### Pattern
 
