@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# peRsian <img src="man/figures/logo.png" width="120" align="right" />
+# peRsian <img src="man/figures/logo.jpg" width="120" align="right" />
 
 <!-- badges: start -->
 

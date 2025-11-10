@@ -14,7 +14,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# peRsian <img src="man/figures/logo.png" width="120" align="right" />
+# peRsian <img src="man/figures/logo.jpg" width="120" align="right" />
 
 <!-- badges: start -->
 <!-- badges: end -->
