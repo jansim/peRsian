@@ -64,13 +64,33 @@ Iran in Tehran (circa 2015). Much has changed since then. After months
 of protests, the scarf weighs a little less now — though it’s not gone,
 not yet — it remains a weight many women still carry. That change exists
 because of the courage of countless Iranian women who have fought for
-years to claim their freedom. Woman, Life, Freedom. Jin, Jiyan, Azadî ✌️
+years to claim their freedom.
+
+Woman, Life, Freedom. Jin, Jiyan, Azadî ✌️
 
 ``` r
 persian_palette("tehran")
 ```
 
 <img src="man/figures/README/fig-roses-1.png" width="100%" />
+
+### Pooran
+
+<img align="left" alt="" src="man/figures/pooran.jpg" height="300">
+
+From Namin, Ardabil, this kilim tells a world in threads — animals,
+people, gestures, even the number of fingers carefully woven into each
+form. Every scene hums with life: stories of work, play, and the quiet
+beauty of tradition. Its details hold both the everyday and the eternal.
+I dedicate it to my aunt Pooran, whose life was much the same — vivid,
+full of movement and colour, bright with the small, human details that
+made her unforgettable. — Yegi
+
+``` r
+persian_palette("pooran")
+```
+
+<img src="man/figures/README/fig-pooran-1.png" width="100%" />
 
 ### Fery 🐔
 
@@ -90,26 +110,6 @@ persian_palette("fery")
 ```
 
 <img src="man/figures/README/fig-medallion-1.png" width="100%" />
-
-### Isfahan
-
-<img align="left" alt="Image of a small carpet from Isfahan" src="man/figures/isfahan.jpg" height="300">
-
-On a trip to Isfahan, Naeemeh and I wandered through Naqsh-e Jahan
-Square — that magical place surrounded by little shops and bazaars, full
-of colour and the smell of tea and saffron in the air. This tiny shop
-caught our eye. Inside, tucked among all the treasures, we found the
-smallest, most perfect little rug, a handwoven “gelim/kilim” (گلیم).
-
-I was just about to move to Germany, and I needed something light, so I
-could take it with me wherever I went. A small piece of home —
-colourful, and full of memories. — Yegi
-
-``` r
-persian_palette("isfahan")
-```
-
-<img src="man/figures/README/fig-isfahan-1.png" width="100%" />
 
 ### Leyli
 
@@ -154,6 +154,26 @@ persian_palette("munich")
 
 <img src="man/figures/README/fig-munich-1.png" width="100%" />
 
+### Isfahan
+
+<img align="left" alt="Image of a small carpet from Isfahan" src="man/figures/isfahan.jpg" height="300">
+
+On a trip to Isfahan, Naeemeh and I wandered through Naqsh-e Jahan
+Square — that magical place surrounded by little shops and bazaars, full
+of colour and the smell of tea and saffron in the air. This tiny shop
+caught our eye. Inside, tucked among all the treasures, we found the
+smallest, most perfect little rug, a handwoven “gelim/kilim” (گلیم).
+
+I was just about to move to Germany, and I needed something light, so I
+could take it with me wherever I went. A small piece of home —
+colourful, and full of memories. — Yegi
+
+``` r
+persian_palette("isfahan")
+```
+
+<img src="man/figures/README/fig-isfahan-1.png" width="100%" />
+
 ### Hamburg
 
 <img align="left" alt="Image of the carpet bought in Hamburg" src="man/figures/hamburg.jpg" height="300">
@@ -174,6 +194,31 @@ persian_palette("hamburg")
 ```
 
 <img src="man/figures/README/fig-hamburg-1.png" width="100%" />
+
+### Hooshang
+
+<img align="left" alt="" src="man/figures/hooshang.jpg" height="300">
+
+Handwoven in Hamedan, western Iran, using handspun wool and all-natural
+dyes. Among pictorial carpets, those depicting Hooshang Shahi hold a
+special place. The story of Hooshang Shah — one of the earliest tales in
+Ferdowsi’s Shahnameh — has long captured the imagination of weavers and
+storytellers alike.
+
+In the Avesta, his name appears as Heoshenge, with the epithet Pradetta,
+meaning “lawmaker.” Hooshang is celebrated as the discoverer of fire and
+founder of the Sadeh Festival, remembered as the ruler of the Seven
+Countries, defeater of evil, and, in some traditions, the architect of
+Persepolis.
+
+Photo credit:
+<https://dyadartisans.com/shop/rugs-textiles/rugs/antique-malayer-hooshang-shah-carpet-3-6sqm/>
+
+``` r
+persian_palette("hooshang")
+```
+
+<img src="man/figures/README/fig-hooshang-1.png" width="100%" />
 
 ### Tabriz
 
@@ -246,49 +291,6 @@ persian_palette("berlin")
 ```
 
 <img src="man/figures/README/fig-berlin-1.png" width="100%" />
-
-### Pooran
-
-<img align="left" alt="" src="man/figures/pooran.jpg" height="300">
-
-From Namin, Ardabil, this kilim tells a world in threads — animals,
-people, gestures, even the number of fingers carefully woven into each
-form. Every scene hums with life: stories of work, play, and the quiet
-beauty of tradition. Its details hold both the everyday and the eternal.
-I dedicate it to my aunt Pooran, whose life was much the same — vivid,
-full of movement and colour, bright with the small, human details that
-made her unforgettable. — Yegi
-
-``` r
-persian_palette("pooran")
-```
-
-<img src="man/figures/README/fig-pooran-1.png" width="100%" />
-
-### Hooshang
-
-<img align="left" alt="" src="man/figures/hooshang.jpg" height="300">
-
-Handwoven in Hamedan, western Iran, using handspun wool and all-natural
-dyes. Among pictorial carpets, those depicting Hooshang Shahi hold a
-special place. The story of Hooshang Shah — one of the earliest tales in
-Ferdowsi’s Shahnameh — has long captured the imagination of weavers and
-storytellers alike.
-
-In the Avesta, his name appears as Heoshenge, with the epithet Pradetta,
-meaning “lawmaker.” Hooshang is celebrated as the discoverer of fire and
-founder of the Sadeh Festival, remembered as the ruler of the Seven
-Countries, defeater of evil, and, in some traditions, the architect of
-Persepolis.
-
-Photo credit:
-<https://dyadartisans.com/shop/rugs-textiles/rugs/antique-malayer-hooshang-shah-carpet-3-6sqm/>
-
-``` r
-persian_palette("hooshang")
-```
-
-<img src="man/figures/README/fig-hooshang-1.png" width="100%" />
 
 ### Floral (Metropolitan Museum of Art)
 
